@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-app-backend",
+  "version": "1.0.0",
+  "description": "+ React + HTML + CSS + Javascript + JSX + AWS(Front end) + C2(API) + MongoDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
+  }
+}
